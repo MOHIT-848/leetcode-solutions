@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -29,9 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
