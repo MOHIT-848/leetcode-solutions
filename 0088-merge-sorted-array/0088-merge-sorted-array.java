@@ -5,14 +5,11 @@ class Solution {
         for (int i=0;i<nums1.length;i++){
             if(nums1[i]==0){
                 if(j<n){
-                     nums1[i]=nums2[j];
+                nums1[i]=nums2[j];
                 j++;
-
-                }
-               
+                }   
             }
         }
-        Arrays.sort(nums1);
-        
+        Arrays.sort(nums1);    
     }
 }
