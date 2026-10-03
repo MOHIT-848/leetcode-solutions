@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -90,9 +93,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0135-candy) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
