@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0135-candy) |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
