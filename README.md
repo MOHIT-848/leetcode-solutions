@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1480-running-sum-of-1d-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## String Matching
 |  |
 | ------- |
