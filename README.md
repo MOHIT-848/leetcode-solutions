@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1920-build-array-from-permutation](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## String Matching
 |  |
 | ------- |
