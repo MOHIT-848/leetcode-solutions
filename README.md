@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0231-power-of-two](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -203,4 +205,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0231-power-of-two](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
