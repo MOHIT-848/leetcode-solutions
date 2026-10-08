@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
