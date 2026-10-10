@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
