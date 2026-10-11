@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3498-reverse-degree-of-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
