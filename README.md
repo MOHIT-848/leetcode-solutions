@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Stack
@@ -260,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
