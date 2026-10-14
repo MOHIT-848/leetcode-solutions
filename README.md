@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0135-candy) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
