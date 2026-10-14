@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0922-sort-array-by-parity-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
