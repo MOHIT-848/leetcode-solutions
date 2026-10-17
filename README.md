@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2923-find-champion-i) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
