@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2923-find-champion-i](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2923-find-champion-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2923-find-champion-i](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2923-find-champion-i) |
 ## Simulation
 |  |
 | ------- |
