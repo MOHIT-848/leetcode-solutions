@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/MOHIT-848/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Binary Search
 |  |
 | ------- |
