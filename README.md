@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1254-number-of-closed-islands](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/MOHIT-848/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2923-find-champion-i](https://github.com/MOHIT-848/leetcode-solutions/tree/master/2923-find-champion-i) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -460,4 +463,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/MOHIT-848/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
